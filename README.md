@@ -16,3 +16,5 @@ This project is a simple yet powerful Q&A chatbot built using Streamlit, LangCha
 - **LangChain**: Used to build and manage the prompt-response chain.
 - **Ollama**: Provides the language models for generating responses.
 - **dotenv**: For environment variable management.
+
+Note: I have .env file as it contains API Key
